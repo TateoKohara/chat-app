@@ -112,11 +112,10 @@ display: flex;
   margin-bottom: 40px;
 }
 
-}
-.main-chat-footer{
-  background-color: #dddddd;
+.main-chat-footer {
+  background-color: #DDDDDD;
   height: 90px;
-  padding: 20px, 40px;
+  padding: 20px 40px;
   display: flex;
   box-sizing: border-box;
 }
